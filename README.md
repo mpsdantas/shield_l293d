@@ -4,5 +4,5 @@ O L293D é um circuito integrado(CI) que possuí internamente em sua estrutura d
 ##Esquematico da placa
 Abaixo pode ser observado A pci feita no *software* [**Eagle**](https://cadsoft.io/). 
 
-![Placa do SHIELD para o L293D](https://raw.githubusercontent.com/mpsdantas/shield_l293d/master/SHIELD_L293D.png)
+![Placa do SHIELD para o L293D](https://github.com/mpsdantas/shield_l293d/blob/master/Placa_v1/SHIELD_L293D.png)
 
